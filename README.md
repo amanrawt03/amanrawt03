@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently pursuing Bachelor of Technology in Cse.<br>I'm proficient in  HTML, CSS, JS and good in tailwind .<br>I've made several projects  using the same .<br>I'm currently learning React JS.
+Currently enrolled in a Bachelor of Technology program in Computer Science, I possess strong proficiency in a range of web development technologies. These include HTML, CSS, JavaScript, Bootstrap, ReactJS, Node.js, MongoDB, and Express.js.
+
+Leveraging these skills, I've built several projects, including ForecastGuru, a weather application that provides current conditions and forecasts for any location. Another project is a feature-rich chat application that allows multiple users to converse, create groups, share images and videos, and enjoy auto-saved chat history – just to name a few functionalities.
+
+My current focus is on a social media website. This platform will empower users to express themselves, connect with others through a follow system, facilitate real-time chat interactions, and even integrate video calling functionalities. I'm building this project using the powerful MERN stack.
 
 
 ## 🌐 Socials:
